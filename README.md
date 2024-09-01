@@ -1,2 +1,2 @@
-# Ishwar-Jarvis
+# Jarvis
 JavaScript
